@@ -77,7 +77,7 @@ table {
   width: 100%;
   border: 1px solid #c7d0d4;
   border-radius: 5px;
-  padding: 5px;
+  padding: 5px 0 5px 5px;
 }
 .keyboard {
   display: flex;
