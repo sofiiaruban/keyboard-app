@@ -1,13 +1,6 @@
 <h1> General info </h1>
 
-Keyboard App
-
-<ul>
-<li>display meetings planned</li>
-<li>filter meetings for a particular team member</li>
-<li>add new meetings</li>
-<li>delete meetings</li>
-</ul>
+Keyboard App 
 
 ## <h1>Technology Stack </h1>
 
